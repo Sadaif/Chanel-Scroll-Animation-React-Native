@@ -1,0 +1,12 @@
+{
+  "name": "channel_animation",
+  "displayName": "channel_animation",
+  "expo": {
+    "name": "channel_animation",
+    "slug": "channel_animation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
